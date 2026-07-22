@@ -17,6 +17,12 @@ Oxaliplatin-Induced Peripheral Neuropathy (OIPN) is a common dose-limiting toxic
 While no randomized clinical trial has directly investigated **5-Lipoxygenase (5-LOX) inhibition** for OIPN, multiple pharmacological agents targeting related oxidative and ferroptosis-associated pathways have been evaluated clinically.
 
 This repository contains a **PRISMA 2020-compliant Systematic Literature Review (SLR) and Meta-analysis** that synthesizes the available clinical evidence and identifies the translational gap supporting future investigation of **Zileuton (5-LOX inhibitor)**.
+<img width="1118" height="692" alt="image" src="https://github.com/user-attachments/assets/c7a37655-6410-4fa5-8b3a-4bf0955ae779" />
+
+<img width="933" height="677" alt="image" src="https://github.com/user-attachments/assets/330db094-49ec-4661-b419-c7eac9b4df28" />
+
+<img width="535" height="625" alt="image" src="https://github.com/user-attachments/assets/0d055eab-6976-4a9e-82c0-00f7a635aac0" />
+
 
 ---
 
